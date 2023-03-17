@@ -1,0 +1,55 @@
+    a:visited {
+    color: black;
+  }
+    a.top {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-decoration: none;
+  }
+    a.top:hover {
+    color: darkcyan;
+    font-weight: bold;
+  }
+    a.github {
+    text-decoration: none;
+  }
+    a.github:hover {
+    color: brown;
+  }
+  div.container {
+    text-align: center;
+  }
+    body {
+    text-align: center;
+  }
+    h1 {
+    font-family: "Patua One", cursive;
+    color: blue;
+  }
+    iframe {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+    img.memory {
+    height: 228px;
+    width: 203px;
+  }
+    img.vic {
+    width: 200px;
+    border-radius: 100px;
+    margin-right: 20px;
+  }
+    img.quiz {
+    height: 246px;
+    width: 202px;
+  }
+    p.description {
+    color: chocolate;
+    font-style: italic;
+  }
+    p {
+    margin-top: 50px;
+  }
+  ul.myUL {
+    display: inline-block;
+  }
